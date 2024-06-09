@@ -1,1 +1,1 @@
-`Note` - please add the api secrets before run the code in menu.js component
+`Note` - please add the  secrets keys before run the code in menu.js component
