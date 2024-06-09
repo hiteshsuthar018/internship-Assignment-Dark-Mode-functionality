@@ -33,8 +33,8 @@ const SECRET_ACCESS_KEY = "SECRETKEY";
 const config = {
   bucketName: S3_BUCKET,
   region: REGION,
-  accessKeyId: ACCESS_KEY,
-  secretAccessKey: SECRET_ACCESS_KEY,
+  accessKeyId: AKIAY7BEJYRC3YUJH3FO,
+  secretAccessKey: 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,
 };
 
 const Menu = ({ changeColorMode }) => {
