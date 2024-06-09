@@ -27,14 +27,14 @@ import { documentsContext } from "./../../App";
 
 const S3_BUCKET = "grant-copilot";
 const REGION = "us-east-1";
-const ACCESS_KEY = "APIKEY";
-const SECRET_ACCESS_KEY = "SECRETKEY";
+const ACCESS_KEY = "AKIAY7BEJYRC3YUJH3FO";
+const SECRET_ACCESS_KEY = "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";
 
 const config = {
   bucketName: S3_BUCKET,
   region: REGION,
-  accessKeyId: AKIAY7BEJYRC3YUJH3FO,
-  secretAccessKey: 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,
+  accessKeyId: ACCESS_KEY,
+  secretAccessKey: SECRET_ACCESS_KEY,
 };
 
 const Menu = ({ changeColorMode }) => {
